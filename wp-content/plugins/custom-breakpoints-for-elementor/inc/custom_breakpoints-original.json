@@ -1,0 +1,87 @@
+{
+  "breakpoint0": {
+    "name": "iPhone 5/SE",
+    "input1": "320",
+    "input2": "568"
+  },
+  "breakpoint1": {
+    "name": "iPhone 5/SE",
+    "input1": "568",
+    "input2": "320"
+  },
+  "breakpoint2": {
+    "name": "iPhone 6/7/8 (P)",
+    "input1": "375",
+    "input2": "667"
+  },
+  "breakpoint3": {
+    "name": "iPhone 6/7/8 (LS)",
+    "input1": "736",
+    "input2": "414"
+  },
+  "breakpoint4": {
+    "name": "iPhone 6/7/8 Plus (P)",
+    "input1": "414",
+    "input2": "736"
+  },
+  "breakpoint5": {
+    "name": "iPhone 6/7/8 Plus (LS)",
+    "input1": "736",
+    "input2": "414"
+  },
+  "breakpoint6": {
+    "name": "iPhone 11/XR (P)",
+    "input1": "414",
+    "input2": "896"
+  },
+  "breakpoint7": {
+    "name": "iPhone 11/XR (LS)",
+    "input1": "896",
+    "input2": "414"
+  },
+  "breakpoint8": {
+    "name": "iPhone 11 Pro/X/XS (P)",
+    "input1": "375",
+    "input2": "812"
+  },
+  "breakpoint9": {
+    "name": "iPad Pro 12,9 Zoll (LS)",
+    "input1": "1366",
+    "input2": "1024"
+  },
+  "breakpoint10": {
+    "name": "iPhone 11 Pro Max/XS Max (P)",
+    "input1": "414",
+    "input2": "896"
+  },
+  "breakpoint11": {
+    "name": "iPhone 11 Pro Max/XS Max (LS)",
+    "input1": "896",
+    "input2": "414"
+  },
+  "breakpoint12": {
+    "name": "iPad (Mini) 9,7 Zoll (P)",
+    "input1": "768",
+    "input2": "1024"  
+  },
+  "breakpoint13": {
+    "name": "iPad (Mini) 9,7 Zoll (LS)",
+    "input1": "1024",
+    "input2": "768"
+  },
+  "breakpoint14": {
+    "name": "iPad Pro 10,5 Zoll (P)",
+    "input1": "834",
+    "input2": "1112"
+  },
+  "breakpoint15": {
+    "name": "iPad Pro 10,5 Zoll (LS)",
+    "input1": "1112",
+    "input2": "834"
+  },
+  "breakpoint16": {
+    "name": "iPad Pro 12,9 Zoll (P)",
+    "input1": "1024",
+    "input2": "1366"
+  }
+}
